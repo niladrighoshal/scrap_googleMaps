@@ -10,7 +10,9 @@ cd scrap_googleMaps
 ```shell
 python -m pip install -r requirements.txt
 ```
-4️⃣ Let the Rain of Google Map Leads Begin 😎:
+4️⃣ For more customization and sorting check the README.md file inside the src directory.
+
+5️⃣ Let the Rain of Google Map Leads Begin 😎:
 ```shell
 python main.py
 ```
