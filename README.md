@@ -1,7 +1,7 @@
 1️⃣ Clone the Magic 🧙‍♀️:
 ```shell
 git clone https://github.com/niladrighoshal/scrap_googleMaps
-cd google-maps-scraper
+cd scrap_googleMaps
 ```
 2️⃣ Install Dependencies 📦:
 ```shell
