@@ -4,6 +4,8 @@ from src import tasks_to_be_run
 
 msg = '''
 Google Maps Leads have been successfully scraped! 
+This code is being Developed by Niladri Ghoshal. please give me a Star ⭐ in my GitHub repository by clicking:
+https://github.com/niladrighoshal/scrap_googleMaps 
 
 '''
 
