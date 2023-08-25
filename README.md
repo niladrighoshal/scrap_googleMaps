@@ -1,13 +1,16 @@
 1️⃣ Clone the Magic 🧙‍♀️:
 ```shell
 git clone https://github.com/niladrighoshal/scrap_googleMaps.git
+```
+2️⃣ Change the Directory:
+```shell
 cd scrap_googleMaps
 ```
-2️⃣ Install Dependencies 📦:
+3️⃣  Install Dependencies 📦:
 ```shell
 python -m pip install -r requirements.txt
 ```
-3️⃣ Let the Rain of Google Map Leads Begin 😎:
+4️⃣ Let the Rain of Google Map Leads Begin 😎:
 ```shell
 python main.py
 ```
